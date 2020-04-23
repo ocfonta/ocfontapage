@@ -1,4 +1,5 @@
 # ocfontapage
-## Для тренировки регулярных выражений
-> Проект находится по ссылке <https://ocfonta.github.io/ocfontapage/>
+## Проект находится по ссылке <https://ocfonta.github.io/ocfontapage/>
+> Для тренировки регулярных выражений
+> 
 ***
